@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637024580 source:c:\users\pepo\desktop\fernando.colombo.p1.progi1g.recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
